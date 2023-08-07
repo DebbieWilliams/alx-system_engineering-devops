@@ -1,2 +1,0 @@
-#!/bin/bash
-done < /etc/passwd | sort -t: -k1
